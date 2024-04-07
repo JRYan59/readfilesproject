@@ -1,0 +1,7 @@
+35
+12345678, Luis Perez, 12, 35, 0
+23456789, Maria Gonzalez, 9, 35, 1
+56789012, Luisa Lein, 7, 32, 0
+34567890, José Carmona, 15, 30, 0
+45678901, Carlos Perdomo, 19, 20, 0
+67890123, Pedro Perez, 7, 30, 0
